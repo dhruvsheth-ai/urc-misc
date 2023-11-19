@@ -1,4 +1,4 @@
-## Instructions for installation on debain (raspi)
+## Instructions for installation on debian (raspi)
 
 ```bash
 - git clone https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15^C
